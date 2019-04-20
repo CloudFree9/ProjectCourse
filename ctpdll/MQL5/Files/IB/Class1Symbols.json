@@ -1,0 +1,114 @@
+{
+	"ConfigSymbols" : [
+		{
+		"Symbol" : "JPY 201812",
+		"ContractID" : "140081942",
+		"Description" : "JPY FUT GLOBEX 20181217",
+		"LastTrade" : "20181217",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "7",
+		"VIX" : "yes"
+		},
+		{
+		"Symbol" : "AUD 201812",
+		"ContractID" : "140081910",
+		"Description" : "AUD FUT GLOBEX 20181217",
+		"LastTrade" : "20181217",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "5",
+		"VIX" : "yes"
+		},
+		{
+		"Symbol" : "EUR 201812",
+		"ContractID" : "140081916",
+		"Description" : "EUR FUT GLOBEX 20181217",
+		"LastTrade" : "20181217",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "5",
+		"VIX" : "yes"
+		},
+		{
+		"Symbol" : "GBP 201812",
+		"ContractID" : "140081806",
+		"Description" : "GBP FUT GLOBEX 20181217",
+		"LastTrade" : "20181217",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "5",
+		"VIX" : "yes"
+		},
+		{
+		"Symbol" : "CL 201811",
+		"ContractID" : "117170272",
+		"Description" : "CL FUT NYMEX 20181022",
+		"LastTrade" : "20181022",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "3",
+		"VIX" : "yes"
+		},
+		{
+		"Symbol" : "ZB 201812",
+		"ContractID" : "311475545",
+		"Description" : "ECBOT 30yr Treasury Future 201812",
+		"LastTrade" : "20181219",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "3",
+		"VIX" : "yes"
+		},
+		{
+		"Symbol" : "CT 201812",
+		"ContractID" : "217935099",
+		"Description" : "CT FUT NYBOT 20181206",
+		"LastTrade" : "20181206",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "4",
+		"VIX" : "yes"
+		},
+		{
+		"Symbol" : "SB 201903",
+		"ContractID" : "228089666",
+		"Description" : "SB FUT NYBOT 20190228",
+		"LastTrade" : "20190228",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "5",
+		"VIX" : "yes"
+		},
+		{
+		"Symbol" : "ZS 201911",
+		"ContractID" : "212511081",
+		"Description" : "ZS FUT ECBOT 20191114",
+		"LastTrade" : "20191114",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "2",
+		"VIX" : "yes"
+		},
+		{
+		"Symbol" : "ZC 201912",
+		"ContractID" : "215229149",
+		"Description" : "ZC FUT ECBOT 20191213",
+		"LastTrade" : "20191213",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "2",
+		"VIX" : "yes"
+		},
+		{
+		"Symbol" : "ZW 201812",
+		"ContractID" : "240497222",
+		"Description" : "ZW FUT ECBOT 20181214",
+		"LastTrade" : "20181214",
+		"Basis" : "",
+		"CurrencyBase" : "USD",
+		"Digits" : "2",
+		"VIX" : "yes"
+		}
+	]
+}
